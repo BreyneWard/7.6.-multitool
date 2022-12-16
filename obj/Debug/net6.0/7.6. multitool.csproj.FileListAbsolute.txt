@@ -1,0 +1,15 @@
+D:\multimedi\Cscherp\7.6. multitool\bin\Debug\net6.0\7.6. multitool.exe
+D:\multimedi\Cscherp\7.6. multitool\bin\Debug\net6.0\7.6. multitool.deps.json
+D:\multimedi\Cscherp\7.6. multitool\bin\Debug\net6.0\7.6. multitool.runtimeconfig.json
+D:\multimedi\Cscherp\7.6. multitool\bin\Debug\net6.0\7.6. multitool.dll
+D:\multimedi\Cscherp\7.6. multitool\bin\Debug\net6.0\7.6. multitool.pdb
+D:\multimedi\Cscherp\7.6. multitool\obj\Debug\net6.0\7.6. multitool.csproj.AssemblyReference.cache
+D:\multimedi\Cscherp\7.6. multitool\obj\Debug\net6.0\7.6. multitool.GeneratedMSBuildEditorConfig.editorconfig
+D:\multimedi\Cscherp\7.6. multitool\obj\Debug\net6.0\7.6. multitool.AssemblyInfoInputs.cache
+D:\multimedi\Cscherp\7.6. multitool\obj\Debug\net6.0\7.6. multitool.AssemblyInfo.cs
+D:\multimedi\Cscherp\7.6. multitool\obj\Debug\net6.0\7.6. multitool.csproj.CoreCompileInputs.cache
+D:\multimedi\Cscherp\7.6. multitool\obj\Debug\net6.0\7.6. multitool.dll
+D:\multimedi\Cscherp\7.6. multitool\obj\Debug\net6.0\refint\7.6. multitool.dll
+D:\multimedi\Cscherp\7.6. multitool\obj\Debug\net6.0\7.6. multitool.pdb
+D:\multimedi\Cscherp\7.6. multitool\obj\Debug\net6.0\7.6. multitool.genruntimeconfig.cache
+D:\multimedi\Cscherp\7.6. multitool\obj\Debug\net6.0\ref\7.6. multitool.dll
